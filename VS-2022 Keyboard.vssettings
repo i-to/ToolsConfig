@@ -1,0 +1,448 @@
+<UserSettings>
+    <ApplicationIdentity version="17.0"/>
+    <ToolsOptions>
+        <ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
+    </ToolsOptions>
+    <Category name="Environment_Group" RegisteredName="Environment_Group">
+        <Category name="Environment_KeyBindings" Category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_KeyBindings" PackageName="Visual Studio Environment Package">
+            <Version>17.0.0.0</Version>
+            <KeyboardShortcuts>
+                <ScopeDefinitions>
+                    <Scope Name="Team Explorer" ID="{7AA20502-9463-47B7-BF43-341BAF51157C}"/>
+                    <Scope Name="VC Dialog Editor" ID="{543E0C02-8C85-4E43-933A-5EF320E3431F}"/>
+                    <Scope Name="Find All References Tool Window" ID="{1FA1FD06-3592-4D1D-AC75-0B953320140C}"/>
+                    <Scope Name="Test Explorer Playlist Tab" ID="{D2F6510A-150A-4F3F-9D7C-8E38622D26F7}"/>
+                    <Scope Name="XAML Live Preview" ID="{A0CA7712-7BB0-4324-9AF0-70E70D5ECC2D}"/>
+                    <Scope Name="Live Property Explorer" ID="{31FC2115-5126-4A87-B2F7-77EAAB65048B}"/>
+                    <Scope Name="XML (Text) Editor" ID="{FA3CD31E-987B-443A-9B81-186104E8DAC1}"/>
+                    <Scope Name="Text Editor" ID="{8B382828-6202-11D1-8870-0000F87579D2}"/>
+                    <Scope Name="Work Item Results View" ID="{7026002D-01F6-44E7-95CF-A896C00DA3F8}"/>
+                    <Scope Name="Solution Explorer" ID="{3AE79031-E1BC-11D0-8F78-00A0C9110057}"/>
+                    <Scope Name="Query Designer" ID="{B2C40B32-3A37-4CA9-97B9-FA44248B69FF}"/>
+                    <Scope Name="C# Editor with Encoding" ID="{08467B34-B90F-4D91-BDCA-EB8C8CF3033A}"/>
+                    <Scope Name="Watch Windows" ID="{90243340-BD7A-11D0-93EF-00A0C90F2734}"/>
+                    <Scope Name="WebBrowser" ID="{E8B06F41-6D01-11D2-AA7D-00C04F990343}"/>
+                    <Scope Name="Breakpoints Window" ID="{BE4D7042-BA3F-11D2-840E-00C04F9902C1}"/>
+                    <Scope Name="DataSet Editor" ID="{B334A759-F450-40A5-BE2A-65937BCD5415}"/>
+                    <Scope Name="XAML Designer" ID="{E9B8485C-1217-4277-9ED6-C825A5AC1968}"/>
+                    <Scope Name="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}" ID="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}"/>
+                    <Scope Name="View Designer" ID="{B968E165-98E0-41F0-8FBE-A8ED1D246A90}"/>
+                    <Scope Name="XAML Editor" ID="{A4F9FF65-A78C-4650-866D-5069CC4127CF}"/>
+                    <Scope Name="Terminal" ID="{D212F56B-C48A-434C-A121-1C5D80B59B9F}"/>
+                    <Scope Name="Visual Basic Editor" ID="{2C015C70-C72C-11D0-88C3-00A0C9110049}"/>
+                    <Scope Name="Global" ID="{5EFC7975-14BC-11CF-9B2B-00AA00573819}"/>
+                    <Scope Name="Autos Window" ID="{F2E84780-2AF1-11D1-A7FA-00A0C9110051}"/>
+                    <Scope Name="Live Visual Tree" ID="{A2EAF38F-A0AD-4503-91F8-5F004A69A040}"/>
+                    <Scope Name="Work Item Query View" ID="{B6303490-B828-410C-9216-AE727D0E282D}"/>
+                    <Scope Name="Team Foundation Build Detail Editor" ID="{86306A97-84F2-4F5A-889B-1318501AEB5F}"/>
+                    <Scope Name="Database Designer" ID="{CFF78A9B-78A3-45A3-9142-0267AFC261FA}"/>
+                    <Scope Name="Work Item Editor" ID="{40A91D9D-8076-4D28-87C5-5AF9F0ACFE0F}"/>
+                    <Scope Name="Live Unit Testing Tab" ID="{AA9A73A5-B2BF-400B-B57C-58F166FF1C56}"/>
+                    <Scope Name="C# Editor" ID="{A6C744A8-0E4A-4FC6-886A-064283054674}"/>
+                    <Scope Name="VC String Editor" ID="{58442DA9-10DA-4AA9-A2AF-96E4D481379B}"/>
+                    <Scope Name="Interactive Window" ID="{2D0A56AA-9527-4B78-B6E6-EBE6E05DA749}"/>
+                    <Scope Name="Merge Editor Window" ID="{9A9A8AAA-ACD2-4DB6-BD81-8D64176C52B6}"/>
+                    <Scope Name="Visual Basic Editor with Encoding" ID="{6C33E1AA-1401-4536-AB67-0E21E6E569DA}"/>
+                    <Scope Name="Settings Designer" ID="{515231AD-C9DC-4AA3-808F-E1B65E72081C}"/>
+                    <Scope Name="{BA09E2AF-9DF2-4068-B2F0-4C7E5CC19E2F}" ID="{BA09E2AF-9DF2-4068-B2F0-4C7E5CC19E2F}"/>
+                    <Scope Name="Git" ID="{7605A6B0-118F-45BF-95CC-7DB110BF44FD}"/>
+                    <Scope Name="VC Accelerator Editor" ID="{EB56D0B5-BEE7-4D0C-8BE6-88A8ED256695}"/>
+                    <Scope Name="Modules Window" ID="{37ABA9BE-445A-11D3-9949-00C04F68FD0A}"/>
+                    <Scope Name="Managed Resources Editor" ID="{FEA4DCC9-3645-44CD-92E7-84B55A16465C}"/>
+                    <Scope Name="Parallel Stacks Window" ID="{B9A151CE-EF7C-4FE1-A6AA-4777E6E518F3}"/>
+                    <Scope Name="FSharpEditorFactory" ID="{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"/>
+                    <Scope Name="Locals Window" ID="{4A18F9D0-B838-11D0-93EB-00A0C90F2734}"/>
+                    <Scope Name="Difference Viewer" ID="{79D52DDF-52BC-43F1-9663-B3E85CDCA912}"/>
+                    <Scope Name="Table Designer" ID="{4194FEE5-6777-419F-A5FC-47A536DF1BDB}"/>
+                    <Scope Name="VC Image Editor" ID="{C0BA70ED-069E-412B-9C06-7442E28A11B9}"/>
+                    <Scope Name="Test Explorer" ID="{E1B7D1F8-9B3C-49B1-8F4F-BFC63A88835D}"/>
+                    <Scope Name="XML Schema Designer" ID="{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}"/>
+                    <Scope Name="{9E0531FA-FD8C-4007-BD8D-DBB03EBDB4B3}" ID="{9E0531FA-FD8C-4007-BD8D-DBB03EBDB4B3}"/>
+                </ScopeDefinitions>
+                <DefaultShortcuts/>
+                <ShortcutsScheme/>
+                <UserShortcuts>
+                    <!-- Remove conflicting R# shortcuts -->
+                    <RemoveShortcut Command="ReSharper.ReSharper_CleanupCode" Scope="Global">Ctrl+E, C</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_CleanupCode" Scope="Global">Ctrl+E, Ctrl+C</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_CleanupCode" Scope="Text Editor">Ctrl+E, C</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_CleanupCode" Scope="Text Editor">Ctrl+E, Ctrl+C</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_GotoContainingDeclaration" Scope="Text Editor">Ctrl+[</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_MoveDown" Scope="Text Editor">Ctrl+Shift+Alt+Down Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_MoveLeft" Scope="Text Editor">Ctrl+Shift+Alt+Left Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_MoveRight" Scope="Text Editor">Ctrl+Shift+Alt+Right Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_NavigateTo" Scope="Global">Alt+`</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_NavigateTo" Scope="Text Editor">Alt+`</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_ProfileAllTestsInCurrentContextWithMemoryUnit" Scope="Global">Ctrl+U, Ctrl+M</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_ProfileAllTestsInCurrentContextWithMemoryUnit" Scope="Global">Ctrl+U, M</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_ShowCodeStructure" Scope="Text Editor">Ctrl+Alt+F</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_ShowUnitTestSessions" Scope="Text Editor">Ctrl+Alt+T</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunSolution" Scope="Global">Ctrl+U, Ctrl+L</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunSolution" Scope="Global">Ctrl+U, L</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestSessionAppendTests" Scope="Global">Ctrl+U, A</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestSessionAppendTests" Scope="Global">Ctrl+U, Ctrl+A</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestSessionNewSession" Scope="Global">Ctrl+U, Ctrl+N</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestSessionNewSession" Scope="Global">Ctrl+U, N</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper_CurrentConfigDebugAlt" Scope="Global">Alt+F5</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper_CurrentConfigDebugAlt" Scope="Text Editor">Alt+F5</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper_CurrentConfigRunAlt" Scope="Global">Ctrl+Alt+F5</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper_CurrentConfigRunAlt" Scope="Text Editor">Ctrl+Alt+F5</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper_IntelliSenseFilterMethods" Scope="Text Editor">Alt+M</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper_SelectContainingDeclaration" Scope="Global">Ctrl+Shift+[</RemoveShortcut>
+
+                    <!-- Remove VS shortcuts -->
+                    <RemoveShortcut Command="Debug.Threads" Scope="Global">Ctrl+Alt+H</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.BreakLine" Scope="Text Editor">Shift+Enter</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.CollapseCurrentRegion" Scope="Text Editor">Ctrl+M, Ctrl+S</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.Duplicate" Scope="Global">Ctrl+E, Ctrl+V</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.EmacsGoToLine" Scope="Text Editor">Ctrl+Shift+Alt+L</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.ExpandCurrentRegion" Scope="Text Editor">Ctrl+M, Ctrl+E</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.LineCut" Scope="Global">Ctrl+L</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.LineCut" Scope="Text Editor">Ctrl+L</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.LineUpExtendColumn" Scope="Text Editor">Shift+Alt+Up Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.MakeLowercase" Scope="Text Editor">Ctrl+U</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.MakeUppercase" Scope="Text Editor">Ctrl+Shift+U</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.PasteParameterTip" Scope="Text Editor">Ctrl+Shift+Alt+P</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.SelectCurrentWord" Scope="Text Editor">Ctrl+W</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.ViewBottom" Scope="Text Editor">Ctrl+PgDn</RemoveShortcut>
+                    <RemoveShortcut Command="Edit.ViewTop" Scope="Text Editor">Ctrl+PgUp</RemoveShortcut>
+                    <RemoveShortcut Command="EditorContextMenus.CodeWindow.ExecuteLineInInteractive" Scope="Global">Alt+'</RemoveShortcut>
+                    <RemoveShortcut Command="Format.ButtonRight" Scope="VC Dialog Editor">Ctrl+R</RemoveShortcut>
+                    <RemoveShortcut Command="Format.SpaceDown" Scope="VC Dialog Editor">Alt+Down Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="Format.TestDialog" Scope="VC Dialog Editor">Ctrl+T</RemoveShortcut>
+                    <RemoveShortcut Command="GraphView.BottomtoTop" Scope="XML Schema Designer">Alt+Up Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="Image.FilledEllipseTool" Scope="VC Image Editor">Ctrl+Shift+Alt+P</RemoveShortcut>
+                    <RemoveShortcut Command="Image.FilledRectangleTool" Scope="VC Image Editor">Ctrl+Shift+Alt+R</RemoveShortcut>
+                    <RemoveShortcut Command="Image.PreviousColor" Scope="VC Image Editor">Ctrl+[</RemoveShortcut>
+                    <RemoveShortcut Command="Image.PreviousRightColor" Scope="VC Image Editor">Ctrl+Shift+[</RemoveShortcut>
+                    <RemoveShortcut Command="Image.TextTool" Scope="VC Image Editor">Ctrl+T</RemoveShortcut>
+                    <RemoveShortcut Command="Image.UseSelectionasBrush" Scope="VC Image Editor">Ctrl+U</RemoveShortcut>
+                    <RemoveShortcut Command="Image.ZoomOut" Scope="VC Image Editor">Ctrl+Shift+,</RemoveShortcut>
+                    <RemoveShortcut Command="OtherContextMenus.FSIConsoleContext.StartDebugging" Scope="{DEE22B65-9761-4A26-8FB2-759B971D6DFC}">Ctrl+Alt+D</RemoveShortcut>
+                    <RemoveShortcut Command="Refactor.Rename" Scope="Global">Ctrl+R, Ctrl+R</RemoveShortcut>
+                    <RemoveShortcut Command="Resources.Audio" Scope="Managed Resources Editor">Ctrl+4</RemoveShortcut>
+                    <RemoveShortcut Command="Resources.Files" Scope="Managed Resources Editor">Ctrl+5</RemoveShortcut>
+                    <RemoveShortcut Command="Resources.Icons" Scope="Managed Resources Editor">Ctrl+3</RemoveShortcut>
+                    <RemoveShortcut Command="Resources.Images" Scope="Managed Resources Editor">Ctrl+2</RemoveShortcut>
+                    <RemoveShortcut Command="Resources.Other" Scope="Managed Resources Editor">Ctrl+6</RemoveShortcut>
+                    <RemoveShortcut Command="Resources.Strings" Scope="Managed Resources Editor">Ctrl+1</RemoveShortcut>
+                    <RemoveShortcut Command="Team.NewLinkedWorkItem" Scope="Work Item Editor">Shift+Alt+L</RemoveShortcut>
+                    <RemoveShortcut Command="Team.NewLinkedWorkItem" Scope="Work Item Query View">Shift+Alt+L</RemoveShortcut>
+                    <RemoveShortcut Command="Team.NewLinkedWorkItem" Scope="Work Item Results View">Shift+Alt+L</RemoveShortcut>
+                    <RemoveShortcut Command="TeamFoundationContextMenus.Commands.GoToTeamExplorerNavigation" Scope="Team Explorer">Alt+Home</RemoveShortcut>
+                    <RemoveShortcut Command="TeamFoundationContextMenus.MyWorkPageInProgress.TfsContextMyWorkPageNewLinkedWI" Scope="Team Explorer">Shift+Alt+L</RemoveShortcut>
+                    <RemoveShortcut Command="View.DocumentOutline" Scope="Global">Ctrl+Alt+T</RemoveShortcut>
+                    <RemoveShortcut Command="View.NavigateBackward" Scope="Global">Ctrl+-</RemoveShortcut>
+                    <RemoveShortcut Command="View.NavigateForward" Scope="Global">Ctrl+Shift+-</RemoveShortcut>
+                    <RemoveShortcut Command="View.SolutionExplorer" Scope="Text Editor">Ctrl+Alt+L</RemoveShortcut>
+                    <RemoveShortcut Command="View.SolutionExplorer" Scope="Global">Ctrl+Alt+[</RemoveShortcut>
+                    <RemoveShortcut Command="Window.ShowEzMDIFileList" Scope="Global">Ctrl+Alt+Down Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="XML.StartXSLTDebugging" Scope="XML (Text) Editor">Alt+F5</RemoveShortcut>
+                    <RemoveShortcut Command="XML.StartXSLTWithoutDebugging" Scope="XML (Text) Editor">Ctrl+Alt+F5</RemoveShortcut>
+                    <RemoveShortcut Command="XsdDesigner.ShowContentModelView" Scope="XML Schema Designer">Ctrl+2</RemoveShortcut>
+                    <RemoveShortcut Command="XsdDesigner.ShowGraphView" Scope="XML Schema Designer">Ctrl+3</RemoveShortcut>
+                    <RemoveShortcut Command="XsdDesigner.ShowStartView" Scope="XML Schema Designer">Ctrl+1</RemoveShortcut>
+                    <RemoveShortcut Command="View.ZoomIn" Scope="Global">Ctrl+Shift+.</RemoveShortcut>
+                    
+                    <!-- R# shortcuts -->
+                    <Shortcut Command="ReSharper.ReSharper_ShowUsages" Scope="Global">Shift+Alt+F12</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ShowUsages" Scope="Text Editor">Shift+Alt+F12</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_BlockComment" Scope="Text Editor">Ctrl+Shift+/</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_BlockComment" Scope="Text Editor">Shift+Alt+A</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_BookmarksBookmarksMenu" Scope="Global">Ctrl+`</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_BookmarksBookmarksMenu" Scope="Text Editor">Ctrl+`</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ChangeSignature" Scope="Global">Ctrl+R, Ctrl+S</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ChangeSignature" Scope="Global">Ctrl+R, S</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ChangeSignature" Scope="Text Editor">Ctrl+R, Ctrl+S</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ChangeSignature" Scope="Text Editor">Ctrl+R, S</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_CleanupCode" Scope="Global">Shift+Alt+F</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_CleanupCode" Scope="Text Editor">Shift+Alt+F</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_CompleteCodeSmart" Scope="Text Editor">Ctrl+Alt+Space</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_CompleteCodeTypeName" Scope="Text Editor">Shift+Alt+Space</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_EncapsulateField" Scope="Global">Ctrl+R, Ctrl+E</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_EncapsulateField" Scope="Global">Ctrl+R, E</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_EncapsulateField" Scope="Text Editor">Ctrl+R, Ctrl+E</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_EncapsulateField" Scope="Text Editor">Ctrl+R, E</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ExploreStackTrace" Scope="Global">Ctrl+E, Ctrl+T</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ExploreStackTrace" Scope="Global">Ctrl+E, T</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ExploreStackTrace" Scope="Text Editor">Ctrl+E, Ctrl+T</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ExploreStackTrace" Scope="Text Editor">Ctrl+E, T</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ExtractMethod" Scope="Text Editor">Ctrl+R, Ctrl+M</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ExtractMethod" Scope="Text Editor">Ctrl+R, M</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_FindUsages" Scope="Global">Shift+F12</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_FindUsages" Scope="Text Editor">Shift+F12</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_FindUsagesAdvanced" Scope="Global">Ctrl+Shift+Alt+F12</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_FindUsagesAdvanced" Scope="Text Editor">Ctrl+Shift+Alt+F12</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_Generate" Scope="Global">Alt+Ins</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_Generate" Scope="Text Editor">Alt+Ins</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GenerateFileBesides" Scope="Global">Ctrl+Alt+Ins</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GenerateFileBesides" Scope="Text Editor">Ctrl+Alt+Ins</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoAction" Scope="Global">Ctrl+Shift+A</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoAction" Scope="Text Editor">Ctrl+Shift+A</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoBase" Scope="Global">Alt+Home</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoBase" Scope="Text Editor">Alt+Home</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoFile" Scope="Global">Ctrl+Shift+T</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoFile" Scope="Text Editor">Ctrl+Shift+T</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoFileMember" Scope="Global">Alt+\</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoFileMember" Scope="Text Editor">Alt+\</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoInheritors" Scope="Global">Alt+End</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoInheritors" Scope="Text Editor">Alt+End</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoLastEditLocation" Scope="Global">Ctrl+Shift+Bkspce</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoLastEditLocation" Scope="Text Editor">Ctrl+Shift+Bkspce</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoNextErrorInSolution" Scope="Global">Shift+Alt+PgDn</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoNextErrorInSolution" Scope="Text Editor">Shift+Alt+PgDn</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoNextHighlight" Scope="Global">Alt+PgDn</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoNextHighlight" Scope="Text Editor">Alt+PgDn</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoPrevErrorInSolution" Scope="Global">Shift+Alt+PgUp</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoPrevErrorInSolution" Scope="Text Editor">Shift+Alt+PgUp</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoPrevHighlight" Scope="Global">Alt+PgUp</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoPrevHighlight" Scope="Text Editor">Alt+PgUp</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoRecentEdits" Scope="Global">Ctrl+Shift+,</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoRecentEdits" Scope="Text Editor">Ctrl+Shift+,</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoRecentFiles" Scope="Global">Ctrl+,</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoRecentFiles" Scope="Text Editor">Ctrl+,</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoRelatedFiles" Scope="Global">Ctrl+Alt+F7</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoRelatedFiles" Scope="Text Editor">Ctrl+Alt+F7</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoSymbol" Scope="Global">Shift+Alt+T</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoSymbol" Scope="Text Editor">Shift+Alt+T</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoType" Scope="Global">Ctrl+P</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoType" Scope="Global">Ctrl+T</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoType" Scope="Text Editor">Ctrl+P</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoType" Scope="Text Editor">Ctrl+T</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoTypeDeclaration" Scope="Global">Ctrl+Shift+F11</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_GotoTypeDeclaration" Scope="Text Editor">Ctrl+Shift+F11</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_HighlightUsages" Scope="Global">Shift+Alt+F11</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_HighlightUsages" Scope="Text Editor">Shift+Alt+F11</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_InlineVariable" Scope="Text Editor">Ctrl+R, Ctrl+I</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_InlineVariable" Scope="Text Editor">Ctrl+R, I</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_InspectThis" Scope="Global">Ctrl+Shift+Alt+A</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_InspectThis" Scope="Text Editor">Ctrl+Shift+Alt+A</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_IntroVariable" Scope="Text Editor">Ctrl+R, Ctrl+V</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_IntroVariable" Scope="Text Editor">Ctrl+R, V</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_IntroduceField" Scope="Text Editor">Ctrl+R, Ctrl+F</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_IntroduceField" Scope="Text Editor">Ctrl+R, F</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_LineComment" Scope="Text Editor">Ctrl+/</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_LineComment" Scope="Text Editor">Ctrl+Alt+/</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_LiveTemplatesInsert" Scope="Text Editor">Ctrl+E, Ctrl+L</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_LiveTemplatesInsert" Scope="Text Editor">Ctrl+E, L</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_LocateInSolutionOrAssemblyExplorer" Scope="Global">Shift+Alt+L</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_LocateInSolutionOrAssemblyExplorer" Scope="Text Editor">Shift+Alt+L</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_Move" Scope="Global">Ctrl+R, Ctrl+O</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_Move" Scope="Global">Ctrl+R, O</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_Move" Scope="Text Editor">Ctrl+R, Ctrl+O</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_Move" Scope="Text Editor">Ctrl+R, O</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_OptimizeReferences" Scope="Global">Ctrl+Alt+Y</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_OptimizeReferences" Scope="Text Editor">Ctrl+Alt+Y</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_PasteMultiple" Scope="Text Editor">Ctrl+Shift+V</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_QuickDoc" Scope="Global">Ctrl+Shift+F1</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_QuickDoc" Scope="Text Editor">Ctrl+Shift+F1</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_RefactorThis" Scope="Global">Ctrl+Shift+R</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_RefactorThis" Scope="Text Editor">Ctrl+Shift+R</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_Rename" Scope="Text Editor">Ctrl+R, Ctrl+R</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_Rename" Scope="Text Editor">Ctrl+R, R</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_Rename" Scope="Text Editor">F2</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ResultListGoToNextLocation" Scope="Global">Ctrl+Alt+PgDn</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ResultListGoToNextLocation" Scope="Text Editor">Ctrl+Alt+PgDn</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ResultListGoToPrevLocation" Scope="Global">Ctrl+Alt+PgUp</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ResultListGoToPrevLocation" Scope="Text Editor">Ctrl+Alt+PgUp</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_RunConfigSettings" Scope="Global">Ctrl+Shift+Alt+R</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_RunConfigSettings" Scope="Text Editor">Ctrl+Shift+Alt+R</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_SafeDelete" Scope="Global">Alt+Del</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_SafeDelete" Scope="Global">Ctrl+R, Ctrl+D</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_SafeDelete" Scope="Global">Ctrl+R, D</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_SafeDelete" Scope="Text Editor">Alt+Del</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_SafeDelete" Scope="Text Editor">Ctrl+R, Ctrl+D</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_SafeDelete" Scope="Text Editor">Ctrl+R, D</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ShowFindResults" Scope="Global">Ctrl+Alt+F12</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ShowFindResults" Scope="Text Editor">Ctrl+Alt+F12</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ShowInspectionWindow" Scope="Global">Ctrl+Alt+V</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ShowInspectionWindow" Scope="Text Editor">Ctrl+Alt+V</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="Global">Ctrl+Alt+D</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ShowTodoExplorer" Scope="Text Editor">Ctrl+Alt+D</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ShowUnitTestExplorer" Scope="Global">Ctrl+Alt+U</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ShowUnitTestExplorer" Scope="Text Editor">Ctrl+Alt+U</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_ShrinkSelection" Scope="Text Editor">Ctrl+Shift+W</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_SurroundWith" Scope="Text Editor">Ctrl+E, Ctrl+U</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_SurroundWith" Scope="Text Editor">Ctrl+E, U</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_UnitTestDebugContext" Scope="Global">Ctrl+U, Ctrl+D</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_UnitTestDebugContext" Scope="Global">Ctrl+U, D</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Global">Ctrl+U, Ctrl+Y</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Global">Ctrl+U, Y</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="Global">Ctrl+U, Ctrl+U</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="Global">Ctrl+U, U</Shortcut>
+                    <Shortcut Command="ReSharper_AltEnter" Scope="Text Editor">Alt+Enter</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark0" Scope="Global">Ctrl+0</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark0" Scope="Text Editor">Ctrl+0</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark1" Scope="Global">Ctrl+1</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark1" Scope="Text Editor">Ctrl+1</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark2" Scope="Global">Ctrl+2</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark2" Scope="Text Editor">Ctrl+2</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark3" Scope="Global">Ctrl+3</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark3" Scope="Text Editor">Ctrl+3</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark4" Scope="Global">Ctrl+4</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark4" Scope="Text Editor">Ctrl+4</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark5" Scope="Global">Ctrl+5</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark5" Scope="Text Editor">Ctrl+5</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark6" Scope="Global">Ctrl+6</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark6" Scope="Text Editor">Ctrl+6</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark7" Scope="Global">Ctrl+7</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark7" Scope="Text Editor">Ctrl+7</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark8" Scope="Global">Ctrl+8</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark8" Scope="Text Editor">Ctrl+8</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark9" Scope="Global">Ctrl+9</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksGoToBookmark9" Scope="Text Editor">Ctrl+9</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark0" Scope="Global">Ctrl+Shift+0</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark0" Scope="Text Editor">Ctrl+Shift+0</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark1" Scope="Global">Ctrl+Shift+1</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark1" Scope="Text Editor">Ctrl+Shift+1</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark2" Scope="Global">Ctrl+Shift+2</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark2" Scope="Text Editor">Ctrl+Shift+2</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark3" Scope="Global">Ctrl+Shift+3</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark3" Scope="Text Editor">Ctrl+Shift+3</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark4" Scope="Global">Ctrl+Shift+4</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark4" Scope="Text Editor">Ctrl+Shift+4</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark5" Scope="Global">Ctrl+Shift+5</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark5" Scope="Text Editor">Ctrl+Shift+5</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark6" Scope="Global">Ctrl+Shift+6</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark6" Scope="Text Editor">Ctrl+Shift+6</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark7" Scope="Global">Ctrl+Shift+7</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark7" Scope="Text Editor">Ctrl+Shift+7</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark8" Scope="Global">Ctrl+Shift+8</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark8" Scope="Text Editor">Ctrl+Shift+8</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark9" Scope="Global">Ctrl+Shift+9</Shortcut>
+                    <Shortcut Command="ReSharper_BookmarksToggleBookmark9" Scope="Text Editor">Ctrl+Shift+9</Shortcut>
+                    <Shortcut Command="ReSharper_EnableDaemon" Scope="Global">Ctrl+Shift+Alt+8</Shortcut>
+                    <Shortcut Command="ReSharper_EnableDaemon" Scope="Text Editor">Ctrl+Shift+Alt+8</Shortcut>
+                    <Shortcut Command="ReSharper_ForceCompleteItem" Scope="Text Editor">Ctrl+Enter</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseClearFilters" Scope="Text Editor">Shift+Alt+N</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterAggregate" Scope="Text Editor">Alt+A</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterAggregateInvert" Scope="Text Editor">Alt+I, A</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterAggregateInvert" Scope="Text Editor">Alt+I, Alt+A</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterClasses" Scope="Text Editor">Alt+C</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterClassesInvert" Scope="Text Editor">Alt+I, Alt+C</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterClassesInvert" Scope="Text Editor">Alt+I, C</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterDelegates" Scope="Text Editor">Alt+D</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterDelegatesInvert" Scope="Text Editor">Alt+I, Alt+D</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterDelegatesInvert" Scope="Text Editor">Alt+I, D</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterDynamicProperties" Scope="Text Editor">Alt+5</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterDynamicPropertiesInvert" Scope="Text Editor">Alt+I, 5</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterDynamicPropertiesInvert" Scope="Text Editor">Alt+I, Alt+5</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterEnums" Scope="Text Editor">Alt+U</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterEnumsInvert" Scope="Text Editor">Alt+I, Alt+U</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterEnumsInvert" Scope="Text Editor">Alt+I, U</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterEvents" Scope="Text Editor">Alt+E</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterEventsInvert" Scope="Text Editor">Alt+I, Alt+E</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterEventsInvert" Scope="Text Editor">Alt+I, E</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterExtensionMethods" Scope="Text Editor">Alt+X</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterExtensionMethodsInvert" Scope="Text Editor">Alt+I, Alt+X</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterExtensionMethodsInvert" Scope="Text Editor">Alt+I, X</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterFields" Scope="Text Editor">Alt+F</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterFieldsInvert" Scope="Text Editor">Alt+I, Alt+F</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterFieldsInvert" Scope="Text Editor">Alt+I, F</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterInterfaces" Scope="Text Editor">Alt+T</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterInterfacesInvert" Scope="Text Editor">Alt+I, Alt+T</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterInterfacesInvert" Scope="Text Editor">Alt+I, T</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterInternal" Scope="Text Editor">Alt+2</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterInternalInvert" Scope="Text Editor">Alt+I, 2</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterInternalInvert" Scope="Text Editor">Alt+I, Alt+2</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterKeyword" Scope="Text Editor">Alt+K</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterKeywordInvert" Scope="Text Editor">Alt+I, Alt+K</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterKeywordInvert" Scope="Text Editor">Alt+I, K</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterLocalVariables" Scope="Text Editor">Alt+L</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterLocalVariablesInvert" Scope="Text Editor">Alt+I, Alt+L</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterLocalVariablesInvert" Scope="Text Editor">Alt+I, L</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterMethodsInvert" Scope="Text Editor">Alt+I, Alt+M</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterMethodsInvert" Scope="Text Editor">Alt+I, M</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterNamespaces" Scope="Text Editor">Alt+N</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterNamespacesInvert" Scope="Text Editor">Alt+I, Alt+N</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterNamespacesInvert" Scope="Text Editor">Alt+I, N</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterParameters" Scope="Text Editor">Alt+R</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterParametersInvert" Scope="Text Editor">Alt+I, Alt+R</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterParametersInvert" Scope="Text Editor">Alt+I, R</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterPrivate" Scope="Text Editor">Alt+4</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterPrivateInvert" Scope="Text Editor">Alt+I, 4</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterPrivateInvert" Scope="Text Editor">Alt+I, Alt+4</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterProperties" Scope="Text Editor">Alt+P</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterPropertiesInvert" Scope="Text Editor">Alt+I, Alt+P</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterPropertiesInvert" Scope="Text Editor">Alt+I, P</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterProtected" Scope="Text Editor">Alt+3</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterProtectedInvert" Scope="Text Editor">Alt+I, 3</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterProtectedInvert" Scope="Text Editor">Alt+I, Alt+3</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterPublic" Scope="Text Editor">Alt+1</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterPublicInvert" Scope="Text Editor">Alt+I, 1</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterPublicInvert" Scope="Text Editor">Alt+I, Alt+1</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterStructs" Scope="Text Editor">Alt+S</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterStructsInvert" Scope="Text Editor">Alt+I, Alt+S</Shortcut>
+                    <Shortcut Command="ReSharper_IntelliSenseFilterStructsInvert" Scope="Text Editor">Alt+I, S</Shortcut>
+                    <Shortcut Command="ReSharper_ParameterInfoGoToPreviousSignature" Scope="Global">Ctrl+Shift+Alt+Space</Shortcut>
+                    <Shortcut Command="ReSharper_ParameterInfoGoToPreviousSignature" Scope="Text Editor">Ctrl+Shift+Alt+Space</Shortcut>
+                    <Shortcut Command="ReSharper_WindowManagerActivateRecentTool" Scope="Global">Ctrl+Alt+Bkspce</Shortcut>
+                    <Shortcut Command="ReSharper_WindowManagerActivateRecentTool" Scope="Text Editor">Ctrl+Alt+Bkspce</Shortcut>
+                    <Shortcut Command="ReSharper_WindowManagerCloseRecentTool" Scope="Global">Ctrl+Shift+F4</Shortcut>
+                    <Shortcut Command="ReSharper_WindowManagerCloseRecentTool" Scope="Text Editor">Ctrl+Shift+F4</Shortcut>
+                    
+                    <!-- VS shortcuts -->
+                    <Shortcut Command="Build.BuildSelection" Scope="Global">Alt+B</Shortcut>
+                    <Shortcut Command="Debug.Autos" Scope="Global">Ctrl+Alt+A</Shortcut>
+                    <Shortcut Command="Debug.CallStack" Scope="Global">Ctrl+Alt+S</Shortcut>
+                    <Shortcut Command="Debug.DataBreakpoint" Scope="Global">Alt+F9, D</Shortcut>
+                    <Shortcut Command="Debug.Locals" Scope="Global">Ctrl+Alt+L</Shortcut>
+                    <Shortcut Command="Debug.Modules" Scope="Global">Ctrl+Alt+M</Shortcut>
+                    <Shortcut Command="Edit.CollapseCurrentRegion" Scope="Text Editor">Ctrl+Shift+[</Shortcut>
+                    <Shortcut Command="Edit.Duplicate" Scope="Text Editor">Shift+Alt+Down Arrow</Shortcut>
+                    <Shortcut Command="Edit.EmacsGoToLine" Scope="Global">Ctrl+Shift+Alt+L</Shortcut>
+                    <Shortcut Command="Edit.ExpandCurrentRegion" Scope="Text Editor">Ctrl+Shift+]</Shortcut>
+                    <Shortcut Command="Edit.LineCut" Scope="Text Editor">Ctrl+Shift+L</Shortcut>
+                    <Shortcut Command="Edit.LineDelete" Scope="Text Editor">Ctrl+Shift+K</Shortcut>
+                    <Shortcut Command="Edit.LineDownExtendColumn" Scope="Text Editor">Ctrl+Alt+Down Arrow</Shortcut>
+                    <Shortcut Command="Edit.LineUpExtendColumn" Scope="Text Editor">Ctrl+Alt+Up Arrow</Shortcut>
+                    <Shortcut Command="Edit.MakeLowercase" Scope="Text Editor">Ctrl+F3</Shortcut>
+                    <Shortcut Command="Edit.MakeUppercase" Scope="Text Editor">Ctrl+Shift+F3</Shortcut>
+                    <Shortcut Command="Edit.MoveSelectedLinesDown" Scope="Text Editor">Alt+Down Arrow</Shortcut>
+                    <Shortcut Command="Edit.MoveSelectedLinesUp" Scope="Text Editor">Alt+Up Arrow</Shortcut>
+                    <Shortcut Command="Edit.NavigateTo" Scope="Global">Ctrl+P</Shortcut>
+                    <Shortcut Command="Edit.NextBookmarkInDocument" Scope="Text Editor">Ctrl+Shift+Down Arrow</Shortcut>
+                    <Shortcut Command="Edit.NextSubword" Scope="Text Editor">Ctrl+Right Arrow</Shortcut>
+                    <Shortcut Command="Edit.NextSubwordExtend" Scope="Text Editor">Ctrl+Shift+Right Arrow</Shortcut>
+                    <Shortcut Command="Edit.PreviousBookmarkInDocument" Scope="Text Editor">Ctrl+Shift+Up Arrow</Shortcut>
+                    <Shortcut Command="Edit.PreviousSubword" Scope="Text Editor">Ctrl+Left Arrow</Shortcut>
+                    <Shortcut Command="Edit.PreviousSubwordExtend" Scope="Text Editor">Ctrl+Shift+Left Arrow</Shortcut>
+                    <Shortcut Command="Edit.SelectCurrentWord" Scope="Text Editor">Ctrl+D</Shortcut>
+                    <Shortcut Command="Edit.SubwordDeleteToEnd" Scope="Text Editor">Ctrl+Del</Shortcut>
+                    <Shortcut Command="Edit.WordNext" Scope="Text Editor">Ctrl+Alt+Right Arrow</Shortcut>
+                    <Shortcut Command="Edit.WordPrevious" Scope="Text Editor">Ctrl+Alt+Left Arrow</Shortcut>
+                    <Shortcut Command="EditorContextMenus.CodeWindow.ExecuteInInteractive" Scope="FSharpEditorFactory">Ctrl+Alt+Enter</Shortcut>
+                    <Shortcut Command="EditorContextMenus.CodeWindow.ExecuteLineInInteractive" Scope="FSharpEditorFactory">Alt+'</Shortcut>
+                    <Shortcut Command="File.OpenContainingFolder" Scope="Text Editor">Ctrl+Shift+Alt+E</Shortcut>
+                    <Shortcut Command="Format.SpaceDown" Scope="VC Dialog Editor">Alt+Up Arrow</Shortcut>
+                    <Shortcut Command="GraphView.ToptoBottom" Scope="XML Schema Designer">Alt+Down Arrow</Shortcut>
+                    <Shortcut Command="Image.PreviousColor" Scope="VC Image Editor">Ctrl+Left Arrow</Shortcut>
+                    <Shortcut Command="Image.PreviousRightColor" Scope="VC Image Editor">Ctrl+Shift+Left Arrow</Shortcut>
+                    <Shortcut Command="Image.ZoomOut" Scope="VC Image Editor">Ctrl+Down Arrow</Shortcut>
+                    <Shortcut Command="InteractiveConsole.ExecuteInInteractive" Scope="C# Editor">Alt+'</Shortcut>
+                    <Shortcut Command="ProjectandSolutionContextMenus.Item.MoveDown" Scope="Solution Explorer">Alt+Down Arrow</Shortcut>
+                    <Shortcut Command="ProjectandSolutionContextMenus.Item.MoveUp" Scope="Solution Explorer">Alt+Up Arrow</Shortcut>
+                    <Shortcut Command="ProjectandSolutionContextMenus.Project.ResetC#InteractiveFromProject" Scope="Solution Explorer">Ctrl+Alt+C</Shortcut>
+                    <Shortcut Command="Refactor.Rename" Scope="Text Editor">F2</Shortcut>
+                    <Shortcut Command="SolutionExplorer.OpenFilesFilter" Scope="Global">Ctrl+[, Ctrl+O</Shortcut>
+                    <Shortcut Command="SolutionExplorer.OpenFilesFilter" Scope="Global">Ctrl+[, O</Shortcut>
+                    <Shortcut Command="SolutionExplorer.PendingChangesFilter" Scope="Global">Ctrl+[, Ctrl+P</Shortcut>
+                    <Shortcut Command="SolutionExplorer.PendingChangesFilter" Scope="Global">Ctrl+[, P</Shortcut>
+                    <Shortcut Command="SolutionExplorer.SyncWithActiveDocument" Scope="Global">Ctrl+[, Ctrl+S</Shortcut>
+                    <Shortcut Command="SolutionExplorer.SyncWithActiveDocument" Scope="Global">Ctrl+[, S</Shortcut>
+                    <Shortcut Command="TeamFoundationContextMenus.Commands.GoToTeamExplorerNextSectionContent" Scope="Team Explorer">Alt+Down Arrow</Shortcut>
+                    <Shortcut Command="TeamFoundationContextMenus.Commands.GoToTeamExplorerPreviousSectionContent" Scope="Team Explorer">Alt+Up Arrow</Shortcut>
+                    <Shortcut Command="View.C#Interactive" Scope="Global">Ctrl+Alt+C</Shortcut>
+                    <Shortcut Command="View.F#Interactive" Scope="Global">Ctrl+Alt+F</Shortcut>
+                    <Shortcut Command="View.NavigateBackward" Scope="Text Editor">Alt+Left Arrow</Shortcut>
+                    <Shortcut Command="View.NavigateForward" Scope="Text Editor">Alt+Right Arrow</Shortcut>
+                    <Shortcut Command="View.SolutionExplorer" Scope="Global">Ctrl+Shift+E</Shortcut>
+                    <Shortcut Command="Window.CloseDocumentWindow" Scope="Global">Ctrl+W</Shortcut>
+                    <Shortcut Command="Window.NextTab" Scope="Global">Ctrl+PgDn</Shortcut>
+                    <Shortcut Command="Window.PinTab" Scope="Text Editor">Ctrl+Shift+Alt+Up Arrow</Shortcut>
+                    <Shortcut Command="Window.PreviousTab" Scope="Global">Ctrl+PgUp</Shortcut>
+                </UserShortcuts>
+            </KeyboardShortcuts>
+        </Category>
+    </Category>
+</UserSettings>

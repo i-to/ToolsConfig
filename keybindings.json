@@ -1,0 +1,434 @@
+[
+    // 
+    // Tasks.
+    // 
+    {
+        "key": "ctrl+f6",
+        "command": "workbench.action.tasks.reRunTask"
+    },
+    {
+        "key": "ctrl+shift+s",
+        "command": "workbench.action.files.saveAll"
+    },
+    {
+        "key": "ctrl+f5",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Run"
+    },
+    // Disable conflicting shortcuts
+    {
+        "key": "ctrl+shift+s",
+        "command": "-workbench.action.files.saveAs"
+    },
+    {
+        "key": "ctrl+shift+s",
+        "command": "-workbench.action.files.saveLocalFile",
+        "when": "remoteFileDialogVisible"
+    },
+    {
+        "key": "ctrl+f5",
+        "command": "-debug.openView",
+        "when": "!debuggersAvailable"
+    },
+    {
+        "key": "ctrl+f5",
+        "command": "-workbench.action.debug.run",
+        "when": "debuggersAvailable && debugState != 'initializing'"
+    },
+    // 
+    // Git (Version Control).
+    // 
+    // TODO: experiment with following commands
+    // git.stage, git.stageAll, git.stageSelectedRanges 
+    {
+        "key": "ctrl+shift+alt+g",
+        "command": "git-graph.view"
+    },
+    //
+    // Integrated Terminal
+    //
+    {
+        "key": "ctrl+`",
+        "when": "terminalFocus",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+`",
+        "when": "!terminalFocus",
+        "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "ctrl+up",
+        "command": "workbench.action.terminal.scrollUp",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+down",
+        "command": "workbench.action.terminal.scrollDown",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+shift+up",
+        "command": "workbench.action.toggleMaximizedPanel",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+shift+down",
+        "command": "workbench.action.toggleMaximizedPanel",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+pagedown",
+        "command": "workbench.action.terminal.focusNext",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+pageup",
+        "command": "workbench.action.terminal.focusPrevious",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+w",
+        "command": "workbench.action.terminal.kill",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "workbench.action.terminal.new",
+        "when": "terminalFocus"
+    },
+    // Disable conflicting shortcuts
+    {
+        "key": "ctrl+shift+`",
+        "command": "-workbench.action.terminal.new"
+    },
+    {
+        "key": "ctrl+shift+up",
+        "command": "-workbench.action.terminal.scrollUp",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+shift+down",
+        "command": "-workbench.action.terminal.scrollDown",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+up",
+        "command": "-workbench.action.terminal.navigationModeFocusPrevious",
+        "when": "accessibilityModeEnabled && terminalFocus"
+    },
+    {
+        "key": "ctrl+up",
+        "command": "-workbench.action.terminal.navigationModeFocusPrevious",
+        "when": "accessibilityModeEnabled && terminalA11yTreeFocus"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "-editor.action.insertLineAfter",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    //
+    // Split editor.
+    // Note: on Ubuntu, the conflicting global shortcuts must be disabled.
+    {
+        "key": "ctrl+alt+right",
+        "command": "workbench.action.splitEditorRight"
+    },
+    {
+        "key": "ctrl+alt+left",
+        "command": "workbench.action.splitEditorLeft",
+        "when": "isLinux"
+    },
+    // 
+    // Navigaiton.
+    // 
+    {
+        "key": "alt+left",
+        "command": "workbench.action.navigateBack"
+    },
+    {
+        "key": "alt+right",
+        "command": "workbench.action.navigateForward"
+    },
+    {
+        "key": "ctrl+shift+alt+e",
+        "command": "revealFileInOS",
+        "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+shift+down",
+        "command": "workbench.action.compareEditor.nextChange",
+        "when": "textCompareEditorVisible"
+    },
+    {
+        "key": "ctrl+shift+up",
+        "command": "workbench.action.compareEditor.previousChange",
+        "when": "textCompareEditorVisible"
+    },
+    {
+        "key": "f1",
+        "command": "extension.googleSearch"
+    },
+    // Disable conflicting shortcuts
+    {
+        "key": "f1",
+        "command": "-workbench.action.showCommands"
+    },
+    // 
+    // Bookmarks
+    // 
+    {
+        "key": "ctrl+k ctrl+k",
+        "command": "bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+pagedown",
+        "command": "bookmarks.jumpToNext",
+        "when": "editorTextFocus && !textCompareEditorVisible"
+    },
+    {
+        "key": "shift+alt+pageup",
+        "command": "bookmarks.jumpToPrevious",
+        "when": "editorTextFocus && !textCompareEditorVisible"
+    },
+    {
+        "key": "ctrl+k ctrl+l",
+        "command": "bookmarks.clear",
+        "when": "editorTextFocus"
+    },
+    // Removing conflicting shortcuts.
+    {
+        "key": "ctrl+k ctrl+k",
+        "command": "-editor.action.defineKeybinding",
+        "when": "editorTextFocus && !editorReadonly && editorLangId == 'jsonc'"
+    },
+    {
+        "key": "ctrl+k ctrl+l",
+        "command": "-editor.toggleFold",
+        "when": "editorTextFocus && foldingEnabled"
+    },
+    {
+        "key": "ctrl+alt+k",
+        "command": "-bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+l",
+        "command": "-bookmarks.jumpToNext",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+j",
+        "command": "-bookmarks.jumpToPrevious",
+        "when": "editorTextFocus"
+    },
+    // 
+    // Viewing.
+    // 
+    {
+        "key": "ctrl+shift+alt+[",
+        "command": "editor.foldAll",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+alt+]",
+        "command": "editor.unfoldAll",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+[ ctrl+s",
+        "command": "workbench.files.action.showActiveFileInExplorer",
+    },
+    {
+        "key": "ctrl+shift+alt+v",
+        "command": "markdown.showPreview",
+        "when": "!notebookEditorFocused && editorLangId == 'markdown'"
+    },
+    // Disable conflicting shortcuts
+    {
+        "key": "ctrl+shift+v",
+        "command": "markdown.showPreview",
+        "when": "!notebookEditorFocused && editorLangId == 'markdown'"
+    },
+    // 
+    // Editing.
+    // 
+    {
+        "key": "shift+alt+down",
+        "command": "editor.action.copyLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+alt+up",
+        "command": "editor.action.copyLinesUpAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+alt+up",
+        "command": "editor.action.insertCursorAbove",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+down",
+        "command": "editor.action.insertCursorBelow",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+i",
+        "command": "editor.action.addSelectionToNextFindMatch",
+        "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+shift+alt+s",
+        "command": "sortLines.sortLines",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "f9",
+        "command": "-sortLines.sortLines",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+u ctrl+u",
+        "command": "editor.action.transformToUppercase",
+        "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+u ctrl+l",
+        "command": "editor.action.transformToLowercase",
+        "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+u ctrl+p",
+        "command": "editor.action.transformToTitlecase",
+        "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+alt+u",
+        "command": "cursorUndo",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+alt+c",
+        "command": "copyRelativeFilePath",
+        "when": "editorFocus"
+    },
+    // Disable conflicting shortcut
+    {
+        "key": "ctrl+u",
+        "command": "-cursorUndo",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+alt+c",
+        "command": "-copyRelativeFilePath",
+        "when": "!editorFocus"
+    },
+    // 
+    // Executing.
+    // 
+    {
+        "key": "ctrl+enter",
+        "command": "workbench.action.terminal.runSelectedText",
+        "when": "editorTextFocus && editorHasSelection"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "editor.action.openLink",
+        "when": "editorTextFocus && !editorHasSelection && resourceExtname != .ipynb"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "jupyter.runcurrentcell",
+        "when": "editorTextFocus && !editorHasSelection && resourceExtname == .ipynb && isWorkspaceTrusted && jupyter.hascodecells && !jupyter.havenativecells && !notebookEditorFocused"
+    },
+    // 
+    // Formatting.
+    // 
+    {
+        "key": "shift+alt+f",
+        "command": "editor.action.formatDocument",
+        "when": "editorHasDocumentFormattingProvider && editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !editorHasSelection"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "editor.action.formatSelection",
+        "when": "editorHasDocumentSelectionFormattingProvider && editorHasDocumentSelectionFormattingProvider && editorTextFocus && !editorReadonly && editorHasSelection"
+    },
+    // 
+    // Camel humps navigation and selection.
+    // 
+    {
+        "key": "ctrl+left",
+        "command": "-cursorWordStartLeft",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+left",
+        "command": "cursorWordPartLeft",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+right",
+        "command": "-cursorWordStartRight",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+right",
+        "command": "cursorWordPartRight",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+left",
+        "command": "-cursorWordStartLeftSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+left",
+        "command": "cursorWordPartLeftSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+right",
+        "command": "-cursorWordEndRightSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+right",
+        "command": "cursorWordPartRightSelect",
+        "when": "textInputFocus"
+    },
+    // 
+    // Debugging
+    // 
+    {
+        "key": "ctrl+f10",
+        "command": "editor.debug.action.runToCursor",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "ctrl+shift+f10",
+        "command": "debug.jumpToCursor",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "ctrl+alt+s",
+        "command": "workbench.debug.action.focusCallStackView",
+        "when": "inDebugMode"
+    },
+    // - editor.debug.action.selectionToWatch
+    // - editor.debug.action.selectionToRepl
+    // - workbench.debug.action.focusBreakpointsView
+    // - workbench.debug.action.focusRepl
+    // - workbench.debug.action.focusVariablesView
+    // - workbench.debug.action.focusWatchView
+    // { "key": "ctrl+shift+y", "command": "workbench.debug.action.toggleRepl" },
+    //
+    // Disable conflicting shortcuts
+    {
+        "key": "ctrl+shift+f10",
+        "command": "-editor.action.peekDefinition",
+        "when": "editorHasDefinitionProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
+    },
+]

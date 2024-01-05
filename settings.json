@@ -1,0 +1,112 @@
+{
+    //
+    // File associations.
+    //
+    "files.associations": {
+        "*.user": "xml",
+        "*.vssettings": "xml",
+        "*.DotSettings": "xml"
+    },
+    //
+    // Editor styles.
+    //
+    "editor.fontFamily": "'Courier new', 'Consolas', monospace",
+    "editor.fontSize": 15,
+    "editor.lineNumbers": "off",
+    "editor.roundedSelection": false,
+    "editor.cursorBlinking": "blink",
+    "editor.cursorStyle": "line-thin",
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "all",
+    "editor.wordWrap": "off",
+    "terminal.integrated.fontFamily": "'Courier new', 'Consolas', monospace",
+    "terminal.integrated.fontSize": 15,
+    "workbench.colorCustomizations": {
+        "editorBracketMatch.background": "#6665",
+        "editorBracketMatch.border": "#4445",
+        "editor.lineHighlightBackground": "#4444",
+        "editor.lineHighlightBorder": "#2225"
+    },
+    //
+    // Behaviors.
+    //
+    "editor.formatOnSave": false,
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "none",
+    "explorer.autoReveal": false,
+    "terminal.integrated.scrollback": 5000,
+    //
+    // Bookmarks extension.
+    //
+    "bookmarks.navigateThroughAllFiles": true,
+    //
+    // File watcher.
+    //
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true
+    },
+    //
+    // Telemetry
+    //
+    "telemetry.telemetryLevel": "off",
+    //
+    // Miscellaneous
+    //
+    "task.autoDetect": "off",
+    "explorer.confirmDragAndDrop": false,
+    "xmlTools.splitXmlnsOnFormat": false,
+    //
+    // Git
+    //
+    "git.suggestSmartCommit": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git-graph.dialog.createBranch.checkOut": true,
+    "git-graph.dialog.cherryPick.noCommit": true,
+    "gitlens.keymap": "none",
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    //
+    // Typescript
+    //
+    "typescript.disableAutomaticTypeAcquisition": true,
+    //
+    // C#
+    //
+    // "csharp.format.enable": true, // Enable/disable default C# formatter (requires restart).
+    "csharp.referencesCodeLens.enabled": false,
+    "[csharp]": {
+        "editor.codeLens": false
+    },
+    // "csharp.testsCodeLens.enabled": true, // Specifies whether the run and debug test CodeLens should be shown.
+    // "omnisharp.enableRoslynAnalyzers": false, // Enables support for roslyn analyzers, code fixes and rulesets.
+    //
+    // Terminals
+    //
+    "terminal.integrated.profiles.windows": {
+
+        "PowerShell": {
+            "source": "PowerShell"
+        },
+        "CMD": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": []
+        },
+        "Visual Studio Command Prompt": {
+            "path": "${env:windir}\\System32\\cmd.exe",
+            "args": [
+                "/k",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Common7\\Tools\\VsDevCmd.bat"
+            ]
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "CMD"
+}
